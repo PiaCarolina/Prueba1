@@ -10,18 +10,85 @@ body {
   color: ##373A3C;
   font-size: 2rem;
 }
+
+.carousel {
+  margin-top: 70px;
+}
+
+.border-bottom {
+  padding-top: 1rem;
+  width: 10vw;
+}
+
 #about {
   color: #373A3C;
 }
 
 #about h1 {
   font-size: 2rem;
+
 }
 
 #about h2 {
   font-size: 1.5rem;
+  font-weight: 600;
 }
 
 #about p {
   font-size: 1rem;
+}
+
+#exp {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  color: ##373A3C;
+}
+
+
+.exp-text {
+  font-size: 1.3rem;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  color: ##373A3C;
+}
+
+.exp-text2 {
+  font-size: 1rem;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  color: #373A3C;
+}
+
+.btn-warning {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  color: #373A3C;
+}
+
+#works {
+  background-color: #17202A;
+}
+
+.card {
+  border: 0;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  color: #373A3C;
+}
+
+.card h5 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  color: #373A3C;
+}
+
+footer {
+  background-color: #17202A;
+  color: #fff;
+}
+
+footer h1 {
+  font-family: 'Permanent Marker', cursive;
+  font-weight: 400;
+  font-size: 3rem;
 }
