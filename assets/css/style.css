@@ -92,3 +92,7 @@ footer h1 {
   font-weight: 400;
   font-size: 3rem;
 }
+
+footer a {
+  text-decoration: none;
+}
